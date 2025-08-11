@@ -230,12 +230,13 @@ export default function App() {
             </div>
 
             <div className="fixed bottom-4 right-4 flex gap-2 print:hidden">
-                <button
-                    onClick={() => window.print()}
-                    className="px-4 py-2 rounded-xl bg-gray-900 text-white shadow hover:bg-black transition"
+                <a
+                    href="/cv.pdf"
+                    download="Maksym_Goncharov_CV.pdf"
+                    className="px-4 py-2 rounded-xl bg-neutral-900 text-white shadow hover:bg-black transition"
                 >
-                    Print / Save as PDF
-                </button>
+                    Download CV (PDF)
+                </a>
             </div>
         </div>
     );
