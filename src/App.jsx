@@ -14,7 +14,7 @@ const data = {
         {label: "Telegram", url: "https://t.me/mxmgnchrv"},
     ],
     profile:
-        "Frontend Developer with 4+ years of experience building high-performance web applications and SaaS platforms. Proven track record in developing services for Steam top-ups, SMS reception, Telegram bot automation, gift card marketplaces with full admin panels, crypto payment systems, and AI-powered SaaS generators. Experienced with React Native for mobile development and Flask for backend integrations. Strong background in full-stack development using Next.js, Tailwind CSS, and modern UI libraries. Currently acting as a Frontend Developer and Team Lead in a 4-member cross-functional team.",
+        "Frontend Developer | React / Next.js Specialist with 4+ years of experience building high-performance web applications and SaaS platforms. Proven track record in developing services for Steam top-ups, SMS reception, Telegram bot automation, gift card marketplaces with full admin panels, crypto payment systems, and AI-powered SaaS generators. Experienced with React Native for mobile development and Flask for backend integrations. Strong background in full-stack development using Next.js, Tailwind CSS, and modern UI libraries. Currently acting as a Frontend Developer and Team Lead in a 4-member cross-functional team.",
     techStack: {
         frontend:
             "React, Next.js, Redux Toolkit (RTK), React Query, SWR, Tailwind CSS, NextUI, ShadCN UI, MUI, Framer Motion, Zustand, Headless UI, Radix UI",
