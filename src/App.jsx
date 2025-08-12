@@ -5,7 +5,7 @@ const data = {
         name: "Maksym Goncharov",
         title: "Frontend Developer | React / Next.js Specialist",
         email: "mxmgnchrv@gmail.com",
-        telegram: "@k833t",
+        telegram: "@mxmgnchrv",
         location: "Kharkiv, Ukraine",
     },
     links: [
